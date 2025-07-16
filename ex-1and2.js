@@ -5,8 +5,8 @@ let lastName = "Anderson";
 let address = "54/24 Gp 5 Bangkruay-Sainoi Bang Kruay Bang Kruai";
 
 const restaurant = "Chef's Table by Chef James";
-let totalBillAmount = 15000;
-let totalOpenRestaurants = 1500;
+const totalBillAmount = 15000;
+const totalOpenRestaurants = 1500;
 
 // Exercise #2: Variable Reassignment
 // Start coding here
